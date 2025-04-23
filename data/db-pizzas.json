@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Гавайська",
+    "price": 150,
+    "urlImg": "havai.png",
+    "id": "p0"
+  },
+  {
+    "name": "Пепероні",
+    "price": 200,
+    "urlImg": "peperoni.png",
+    "id": "p1"
+  },
+  {
+    "name": "4 сири",
+    "price": 250,
+    "urlImg": "4cheese.png",
+    "id": "p2"
+  },
+  {
+    "name": "Маргарита",
+    "price": 220,
+    "urlImg": "margarita.png",
+    "id": "p3"
+  }
+]

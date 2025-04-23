@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Фанта",
+    "price": 30,
+    "urlImg": "pepsi.png",
+    "id": "d0"
+  },
+  {
+    "name": "Пепсі",
+    "price": 50,
+    "urlImg": "pepsi.png",
+    "id": "d1"
+  },
+  {
+    "name": "Спрайт",
+    "price": 25,
+    "urlImg": "pepsi.png",
+    "id": "d2"
+  },
+  {
+    "name": "Мірінда",
+    "price": 35,
+    "urlImg": "pepsi.png",
+    "id": "d3"
+  }
+]

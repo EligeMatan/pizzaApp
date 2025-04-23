@@ -1,0 +1,6608 @@
+/* Проект "Пицца" */
+
+position: relative;
+width: 1512px;
+height: 4766px;
+
+background: linear-gradient(245.71deg, #1E0C00 4.96%, #1F0700 33.7%, #170A00 68.41%, #1E0D00 96.42%);
+
+
+/* Footer */
+
+position: absolute;
+width: 1512px;
+height: 436px;
+left: 0px;
+top: 4330px;
+
+/* ддддд */
+background: linear-gradient(245.71deg, #170A00 4.96%, #170600 33.7%, #0F0700 68.41%, #170A00 96.42%);
+
+
+/* Group 58 */
+
+position: absolute;
+width: 1252px;
+height: 303px;
+left: 130px;
+top: 70px;
+
+
+
+/* Group 57 */
+
+position: absolute;
+width: 990.19px;
+height: 172px;
+left: 130px;
+top: 70px;
+
+
+
+/* Group 55 */
+
+position: absolute;
+width: 764.19px;
+height: 168px;
+left: 356px;
+top: 74px;
+
+
+
+/* Group 54 */
+
+position: absolute;
+width: 764.19px;
+height: 168px;
+left: 356px;
+top: 74px;
+
+
+
+/* Group 81 */
+
+position: absolute;
+width: 134.76px;
+height: 163.12px;
+left: 356px;
+top: 74px;
+
+
+
+/* Home */
+
+position: absolute;
+width: 134.76px;
+height: 22px;
+left: 356px;
+top: 74px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.6259px;
+line-height: 125.68%;
+/* or 25px */
+letter-spacing: -0.02em;
+
+color: #A3A3A3;
+
+
+
+/* Group 50 */
+
+position: absolute;
+width: 73.3px;
+height: 122.12px;
+left: 356.7px;
+top: 115px;
+
+
+
+/* Events */
+
+position: absolute;
+width: 54px;
+height: 22px;
+left: 356.7px;
+top: 183.28px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* About us */
+
+position: absolute;
+width: 73px;
+height: 22px;
+left: 357px;
+top: 149.12px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* To Order */
+
+position: absolute;
+width: 69px;
+height: 22px;
+left: 356.7px;
+top: 115px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 46px;
+height: 22px;
+left: 357px;
+top: 215.12px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* Group 82 */
+
+position: absolute;
+width: 170px;
+height: 134.15px;
+left: 574.76px;
+top: 74px;
+
+
+
+/* Events */
+
+position: absolute;
+width: 60px;
+height: 25px;
+left: 574.76px;
+top: 74px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.6259px;
+line-height: 125.68%;
+/* identical to box height, or 25px */
+letter-spacing: -0.02em;
+
+color: #A3A3A3;
+
+
+
+/* Group 51 */
+
+position: absolute;
+width: 170px;
+height: 90.28px;
+left: 574.76px;
+top: 117.88px;
+
+
+
+/* Kitchen Tour */
+
+position: absolute;
+width: 109px;
+height: 22px;
+left: 574.76px;
+top: 186.15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* 3 Pizza 1 Free Coffee */
+
+position: absolute;
+width: 170px;
+height: 22px;
+left: 574.76px;
+top: 117.88px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* 2 Pizza for 1 Price */
+
+position: absolute;
+width: 144px;
+height: 22px;
+left: 574.76px;
+top: 152.01px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* Group 83 */
+
+position: absolute;
+width: 109.42px;
+height: 168px;
+left: 828.76px;
+top: 74px;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 51px;
+height: 25px;
+left: 828.76px;
+top: 74px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.6259px;
+line-height: 125.68%;
+/* identical to box height, or 25px */
+letter-spacing: -0.02em;
+
+color: #A3A3A3;
+
+
+
+/* Group 52 */
+
+position: absolute;
+width: 109.42px;
+height: 124.12px;
+left: 828.76px;
+top: 117.88px;
+
+
+
+/* Vegan */
+
+position: absolute;
+width: 56px;
+height: 22px;
+left: 829.19px;
+top: 186.15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* Meat */
+
+position: absolute;
+width: 44px;
+height: 22px;
+left: 828.76px;
+top: 220px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* Show All */
+
+position: absolute;
+width: 74px;
+height: 22px;
+left: 829.19px;
+top: 117.88px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* Seaproducts */
+
+position: absolute;
+width: 109px;
+height: 22px;
+left: 829.19px;
+top: 152.01px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* Group 84 */
+
+position: absolute;
+width: 98px;
+height: 100.01px;
+left: 1022.19px;
+top: 74px;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 84px;
+height: 25px;
+left: 1022.19px;
+top: 74px;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 84px;
+height: 25px;
+left: 1022.19px;
+top: 74px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.6259px;
+line-height: 125.68%;
+/* identical to box height, or 25px */
+letter-spacing: -0.02em;
+
+color: #A3A3A3;
+
+
+
+/* Group 53 */
+
+position: absolute;
+width: 98px;
+height: 56.14px;
+left: 1022.19px;
+top: 117.88px;
+
+
+
+/* Our History */
+
+position: absolute;
+width: 98px;
+height: 22px;
+left: 1022.19px;
+top: 117.88px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* Why We? */
+
+position: absolute;
+width: 83px;
+height: 22px;
+left: 1022.19px;
+top: 152.01px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17.7249px;
+line-height: 125.68%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #515151;
+
+
+
+/* pizzashop */
+
+position: absolute;
+width: 142px;
+height: 33px;
+left: 130px;
+top: 70px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 800;
+font-size: 29.8532px;
+line-height: 109.5%;
+/* identical to box height, or 33px */
+
+background: linear-gradient(261.69deg, #FF6432 12.12%, #FFA228 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 56 */
+
+position: absolute;
+width: 1252px;
+height: 34px;
+left: 130px;
+top: 339px;
+
+
+
+/* +7 (937) 333-55-33 */
+
+position: absolute;
+width: 199.83px;
+height: 26px;
+left: 130px;
+top: 347px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 20.881px;
+line-height: 125.68%;
+/* or 26px */
+letter-spacing: -0.02em;
+
+/* рррр */
+background: linear-gradient(261.69deg, #FF612E 12.12%, #FFA32B 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 46 */
+
+position: absolute;
+width: 104px;
+height: 31.85px;
+left: 1278px;
+top: 339px;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 104px;
+height: 31.85px;
+left: 1278px;
+top: 339px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 104px;
+height: 31.85px;
+left: 1278px;
+top: 339px;
+
+
+
+/* premium-icon-facebook-3670271 1 */
+
+position: absolute;
+width: 25.8px;
+height: 25.8px;
+left: 1356.2px;
+top: 339.87px;
+
+background: url(premium-icon-facebook-3670271.png);
+
+
+/* free-icon-instagram-1384031 1 */
+
+position: absolute;
+width: 24.39px;
+height: 24.39px;
+left: 1278px;
+top: 342.77px;
+
+background: url(free-icon-instagram-1384031.png);
+
+
+/* Group 45 */
+
+position: absolute;
+width: 32.86px;
+height: 31.85px;
+left: 1312.87px;
+top: 339px;
+
+
+
+/* premium-icon-twitter-1944524 2 */
+
+position: absolute;
+width: 31.85px;
+height: 31.85px;
+left: 1313.87px;
+top: 339px;
+
+background: url(premium-icon-twitter-1944524.png);
+
+
+/* premium-icon-twitter-1944524 1 */
+
+position: absolute;
+width: 31.85px;
+height: 31.85px;
+left: 1312.87px;
+top: 339px;
+
+background: url(premium-icon-twitter-1944524.png);
+
+
+/* Group 48 */
+
+position: absolute;
+width: 104px;
+height: 31.85px;
+left: 1278px;
+top: 339px;
+
+
+
+/* premium-icon-facebook-3670271 1 */
+
+position: absolute;
+width: 25.8px;
+height: 25.8px;
+left: 1356.2px;
+top: 339.87px;
+
+/* рррр */
+background: linear-gradient(261.69deg, #FF612E 12.12%, #FFA32B 86.72%);
+
+
+/* free-icon-instagram-1384031 1 */
+
+position: absolute;
+width: 24.39px;
+height: 24.39px;
+left: 1278px;
+top: 342.77px;
+
+/* рррр */
+background: linear-gradient(261.69deg, #FF612E 12.12%, #FFA32B 86.72%);
+
+
+/* Group 45 */
+
+position: absolute;
+width: 32.86px;
+height: 31.85px;
+left: 1312.87px;
+top: 339px;
+
+
+
+/* premium-icon-twitter-1944524 2 */
+
+position: absolute;
+width: 31.85px;
+height: 31.85px;
+left: 1313.87px;
+top: 339px;
+
+/* рррр */
+background: linear-gradient(261.69deg, #FF612E 12.12%, #FFA32B 86.72%);
+
+
+/* premium-icon-twitter-1944524 1 */
+
+position: absolute;
+width: 31.85px;
+height: 31.85px;
+left: 1312.87px;
+top: 339px;
+
+/* рррр */
+background: linear-gradient(261.69deg, #FF612E 12.12%, #FFA32B 86.72%);
+
+
+/* 4 Блок */
+
+position: absolute;
+width: 1513px;
+height: 764px;
+left: 39px;
+top: 3534px;
+
+
+
+/* About */
+
+position: absolute;
+width: 502px;
+height: 230px;
+left: 39px;
+top: 3534px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* About */
+
+position: absolute;
+width: 502px;
+height: 230px;
+left: 1050px;
+top: 4068px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* Group 62 */
+
+position: absolute;
+width: 490.25px;
+height: 540px;
+left: 100px;
+top: 3633px;
+
+
+
+/* Group 61 */
+
+position: absolute;
+width: 490.25px;
+height: 540px;
+left: 100px;
+top: 3633px;
+
+
+
+/* In just a couple of years, we have opened 6 outlets in different cities: Kazan, Chelyabinsk, Ufa, Samara, Izhevsk, and in the future we plan to develop the network in other major cities of Russia. */
+
+position: absolute;
+width: 459px;
+height: 108px;
+left: 131px;
+top: 3723px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5621px;
+line-height: 27px;
+
+color: #A3A3A3;
+
+
+
+/* The kitchen of each point is at least: 400-500 sq. m. meters, hundreds of employees, smoothly performing work in order to receive / prepare / form / deliver customer orders on time. */
+
+position: absolute;
+width: 433px;
+height: 108px;
+left: 130px;
+top: 4065px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5621px;
+line-height: 27px;
+
+color: #A3A3A3;
+
+
+
+/* Group 60 */
+
+position: absolute;
+width: 490.25px;
+height: 189px;
+left: 100px;
+top: 3853px;
+
+
+
+/* 528-5281544_build-yo-removebg-preview 1 */
+
+position: absolute;
+width: 177.46px;
+height: 163.81px;
+left: 265.41px;
+top: 3878.19px;
+
+background: url(528-5281544_build-yo-removebg-preview.png);
+
+
+/* 002-removebg-preview 1 */
+
+position: absolute;
+width: 146.78px;
+height: 146.78px;
+left: 100px;
+top: 3895.41px;
+
+background: url(002-removebg-preview.png);
+transform: rotate(-10.19deg);
+
+
+/* png-clipart-pizza-ham-italian-cuisine-calzone-prosciutto-pizza-pizza-ham-removebg-preview 1 */
+
+position: absolute;
+width: 147.39px;
+height: 150.07px;
+left: 442.86px;
+top: 3884.77px;
+
+background: url(png-clipart-pizza-ham-italian-cuisine-calzone-prosciutto-pizza-pizza-ham-removebg-preview.png);
+
+
+/* png-clipart-pizza-margherita-italian-cuisine-barbecue-seafood-pizza-pizza-parlors-barbecue-food-removebg-preview 1 */
+
+position: absolute;
+width: 143.5px;
+height: 143.5px;
+left: 199.68px;
+top: 3860.67px;
+
+background: url(png-clipart-pizza-margherita-italian-cuisine-barbecue-seafood-pizza-pizza-parlors-barbecue-food-removebg-preview.png);
+filter: drop-shadow(0px 4.38163px 25.1944px rgba(0, 0, 0, 0.93));
+
+
+/* png-clipart-pizza-delivery-take-out-italian-cuisine-desktop-pizza-food-recipe-removebg-preview 1 */
+
+position: absolute;
+width: 218.73px;
+height: 159.93px;
+left: 327.84px;
+top: 3853px;
+
+background: url(png-clipart-pizza-delivery-take-out-italian-cuisine-desktop-pizza-food-recipe-removebg-preview.png);
+filter: drop-shadow(0px 4.38163px 25.1944px rgba(0, 0, 0, 0.93));
+
+
+/* About us */
+
+position: absolute;
+width: 296px;
+height: 76px;
+left: 130px;
+top: 3633px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 800;
+font-size: 69.1697px;
+line-height: 109.5%;
+/* identical to box height, or 76px */
+
+color: #FFFFFF;
+
+
+
+/* top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden 1 */
+
+position: absolute;
+width: 567px;
+height: 541px;
+left: 841px;
+top: 4200px;
+
+background: url(top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden.jpg);
+box-shadow: -15px 21px 68px rgba(103, 25, 0, 0.23);
+border-radius: 34px;
+transform: rotate(-90deg);
+
+
+/* 1 Блок */
+
+position: absolute;
+width: 1367px;
+height: 882px;
+left: 130px;
+top: 35px;
+
+
+
+/* Pizza */
+
+position: absolute;
+width: 473px;
+height: 210px;
+left: 1024px;
+top: 35px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 191.638px;
+line-height: 109.5%;
+/* identical to box height, or 210px */
+
+
+
+/* Pizza */
+
+position: absolute;
+width: 518px;
+height: 230px;
+left: 189px;
+top: 130px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* Pizza */
+
+position: absolute;
+width: 518px;
+height: 230px;
+left: 716px;
+top: 687px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 538px;
+height: 618px;
+left: 130px;
+top: 215px;
+
+/* thhyyh */
+filter: drop-shadow(0px 4px 29px rgba(255, 78, 21, 0.1));
+
+
+/* Group 66 */
+
+position: absolute;
+width: 538px;
+height: 169.7px;
+left: 130px;
+top: 215px;
+
+
+
+/* Lightning 2 */
+
+position: absolute;
+width: 48.67px;
+height: 84.71px;
+left: 340.78px;
+top: 287px;
+
+background: linear-gradient(261.69deg, #FF6432 12.12%, #FFA228 86.72%);
+border-radius: 5.06899px;
+transform: rotate(30.33deg);
+
+
+/* The Fastest Pizza Delivery */
+
+position: absolute;
+width: 538px;
+height: 152px;
+left: 130px;
+top: 215px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 800;
+font-size: 69.1697px;
+line-height: 109.5%;
+/* or 76px */
+
+color: #FFFFFF;
+
+
+
+/* We will deliver juicy pizza for your family in 30 minutes, if the courier is late - pizza is free! */
+
+position: absolute;
+width: 411px;
+height: 60px;
+left: 133px;
+top: 397px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5621px;
+line-height: 30px;
+
+color: #A3A3A3;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 388px;
+height: 62px;
+left: 130px;
+top: 771px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 232px;
+height: 62px;
+left: 286px;
+top: 771px;
+
+border-radius: 100px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 130px;
+top: 771px;
+
+background: linear-gradient(261.48deg, #FE9C1C -17.13%, #FF5E2A 86.76%);
+border-radius: 100px;
+
+
+/* To order */
+
+position: absolute;
+width: 86px;
+height: 28px;
+left: 202px;
+top: 788px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 22.4388px;
+line-height: 123.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* Pizza-Menu */
+
+position: absolute;
+width: 104px;
+height: 23px;
+left: 379px;
+top: 791px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 18.8053px;
+line-height: 123.5%;
+/* or 23px */
+
+background: linear-gradient(261.69deg, #FF6432 12.12%, #FFA228 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 272px;
+height: 232.38px;
+left: 133px;
+top: 480px;
+
+
+
+/* shourav-sheikh-a66sGfOnnqQ-unsplash 1 */
+
+position: absolute;
+width: 272px;
+height: 193.38px;
+left: 133px;
+top: 519px;
+
+background: url(shourav-sheikh-a66sGfOnnqQ-unsplash.jpg);
+box-shadow: 0px 4px 29px rgba(255, 78, 21, 0.1);
+border-radius: 23px;
+
+
+/* Group 13 */
+
+position: absolute;
+width: 177px;
+height: 177px;
+left: 133px;
+top: 480px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 81px;
+height: 81px;
+left: 229px;
+top: 576px;
+
+background: #1D0800;
+box-shadow: 0px 4px 24px rgba(255, 61, 0, 0.67), 0px 4.62857px 33.5571px #000000;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 23.14px;
+height: 23.14px;
+left: 281.07px;
+top: 606.09px;
+
+transform: rotate(90deg);
+
+
+/* Cooking process: */
+
+position: absolute;
+width: 153px;
+height: 27px;
+left: 133px;
+top: 480px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5621px;
+line-height: 136%;
+/* identical to box height, or 27px */
+
+color: #A3A3A3;
+
+
+
+/* shourav-sheikh-xLfqx4Psf94-unsplash 1 */
+
+position: absolute;
+width: 456px;
+height: 683.92px;
+left: 926px;
+top: 157px;
+
+background: url(.png);
+filter: drop-shadow(0px 4px 33px rgba(255, 78, 21, 0.29));
+border-radius: 46px;
+
+
+/* Header */
+
+position: absolute;
+width: 1253px;
+height: 48px;
+left: 129px;
+top: 48px;
+
+
+
+/* pizzashop */
+
+position: absolute;
+width: 162px;
+height: 37px;
+left: 129px;
+top: 57px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 800;
+font-size: 34.0578px;
+line-height: 109.5%;
+/* or 37px */
+
+background: linear-gradient(261.69deg, #FF6432 12.12%, #FFA228 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 469px;
+height: 33px;
+left: 488px;
+top: 63px;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 50px;
+height: 33px;
+left: 488px;
+top: 63px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 6px;
+height: 6px;
+left: 510px;
+top: 90px;
+
+background: linear-gradient(261.69deg, #FF6432 12.12%, #FFA228 86.72%);
+
+
+/* Home */
+
+position: absolute;
+width: 50px;
+height: 20px;
+left: 488px;
+top: 63px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.8805px;
+line-height: 109.5%;
+/* identical to box height, or 20px */
+
+background: linear-gradient(261.69deg, #FF6432 12.12%, #FFA228 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 47px;
+height: 20px;
+left: 618px;
+top: 63px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.8805px;
+line-height: 109.5%;
+/* identical to box height, or 20px */
+
+color: #A3A3A3;
+
+
+
+/* Events */
+
+position: absolute;
+width: 56px;
+height: 20px;
+left: 745px;
+top: 63px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.8805px;
+line-height: 109.5%;
+/* identical to box height, or 20px */
+
+color: #A3A3A3;
+
+
+
+/* About us */
+
+position: absolute;
+width: 76px;
+height: 20px;
+left: 881px;
+top: 63px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.8805px;
+line-height: 109.5%;
+/* identical to box height, or 20px */
+
+color: #A3A3A3;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 229px;
+height: 40px;
+left: 1153px;
+top: 48px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 163px;
+height: 40px;
+left: 1153px;
+top: 48px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 163px;
+height: 40px;
+left: 1153px;
+top: 48px;
+
+background: linear-gradient(261.69deg, #FF5D29 12.12%, #FE9C1C 86.72%);
+border-radius: 700px 675px 700px 700px;
+
+
+/* Log in */
+
+position: absolute;
+width: 51px;
+height: 19px;
+left: 1209px;
+top: 59px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.74px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 8 */
+
+position: absolute;
+visibility: hidden;
+width: 21px;
+height: 21px;
+left: 1269px;
+top: 58px;
+
+
+
+/* search (1) 1 */
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 1269px;
+top: 58px;
+
+background: url(search (1).png);
+
+
+/* search (1) 2 */
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 1269px;
+top: 58px;
+
+background: #1E0900;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1342px;
+top: 48px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1342px;
+top: 48px;
+
+background: linear-gradient(261.69deg, #FF6432 12.12%, #FFA228 86.72%);
+border-radius: 700px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 28px;
+height: 26.67px;
+left: 1348px;
+top: 54px;
+
+
+
+/* bag (2) 1 */
+
+position: absolute;
+width: 28px;
+height: 26.67px;
+left: 1348px;
+top: 54px;
+
+background: url(bag (2).png);
+
+
+/* Group 9 */
+
+position: absolute;
+width: 29.33px;
+height: 26.78px;
+left: 1348px;
+top: 54px;
+
+
+
+/* bag (2) 3 */
+
+position: absolute;
+width: 26.78px;
+height: 26.78px;
+left: 1349.28px;
+top: 54px;
+
+background: #FFFFFF;
+
+
+/* bag (2) 2 */
+
+position: absolute;
+width: 29.33px;
+height: 26.78px;
+left: 1348px;
+top: 54px;
+
+background: #FFFFFF;
+
+
+/* Поверх */
+
+position: absolute;
+width: 987.69px;
+height: 4268.16px;
+left: 524px;
+top: 30px;
+
+
+
+/* Group 64 */
+
+position: absolute;
+width: 816.01px;
+height: 4268.16px;
+left: 695.69px;
+top: 30px;
+
+
+
+/* pizza 1 */
+
+position: absolute;
+width: 251.91px;
+height: 251.91px;
+left: 1260.46px;
+top: 30px;
+
+background: url(pizza.png);
+/* kkkkkkkkkkkk */
+filter: drop-shadow(0px 11px 17px rgba(17, 8, 0, 0.48));
+transform: rotate(4.2deg);
+
+
+/* fries 1 */
+
+position: absolute;
+width: 212.72px;
+height: 226.1px;
+left: 774px;
+top: 735.05px;
+
+background: url(fries.png);
+filter: drop-shadow(-2px -15px 17px rgba(17, 8, 0, 0.48));
+transform: rotate(-15.28deg);
+
+
+/* pizza 2 */
+
+position: absolute;
+width: 236.45px;
+height: 236.45px;
+left: 1271.33px;
+top: 3515px;
+
+background: url(pizza.png);
+filter: drop-shadow(0px 10.3251px 15.9569px rgba(17, 8, 0, 0.48));
+transform: rotate(4.2deg);
+
+
+/* fries 2 */
+
+position: absolute;
+width: 203.13px;
+height: 215.91px;
+left: 695.69px;
+top: 4089.88px;
+
+background: url(fries.png);
+filter: drop-shadow(-1.90981px -14.3236px 16.2334px rgba(17, 8, 0, 0.48));
+transform: rotate(-15.28deg);
+
+
+/* Group 63 */
+
+position: absolute;
+width: 233.29px;
+height: 3792.23px;
+left: 524px;
+top: 220px;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 189.67px;
+height: 66.22px;
+left: 563.63px;
+top: 788px;
+
+border: 2.45263px dashed #A3A3A3;
+border-radius: 64.9751px;
+transform: rotate(24.66deg);
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 88.35px;
+height: 55.46px;
+left: 524px;
+top: 251.39px;
+
+border: 2.36487px dashed #A3A3A3;
+border-radius: 66.162px;
+transform: rotate(-20.81deg);
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 88.35px;
+height: 55.46px;
+left: 655px;
+top: 3960.39px;
+
+border: 2.36487px dashed #A3A3A3;
+border-radius: 66.162px;
+transform: rotate(-20.81deg);
+
+
+/* 3 Блок */
+
+position: absolute;
+width: 1469px;
+height: 1655px;
+left: 21px;
+top: 953px;
+
+
+
+/* Group 52 */
+
+position: absolute;
+width: 1469px;
+height: 1167px;
+left: 21px;
+top: 1102px;
+
+
+
+/* Group 51 */
+
+position: absolute;
+width: 1469px;
+height: 1167px;
+left: 21px;
+top: 1102px;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 467px;
+height: 230px;
+left: 21px;
+top: 1102px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* Menu */
+
+position: absolute;
+width: 467px;
+height: 230px;
+left: 23px;
+top: 2039px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* Menu */
+
+position: absolute;
+width: 467px;
+height: 230px;
+left: 1023px;
+top: 1626px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* Group 67 */
+
+position: absolute;
+width: 1254px;
+height: 1655px;
+left: 129px;
+top: 953px;
+
+
+
+/* Group 31 */
+
+position: absolute;
+width: 1254px;
+height: 519px;
+left: 129px;
+top: 1176px;
+
+filter: drop-shadow(0px 4px 27px rgba(139, 36, 3, 0.05));
+
+
+/* Group 29 */
+
+position: absolute;
+width: 1254px;
+height: 519px;
+left: 129px;
+top: 1176px;
+
+
+
+/* Group 38 */
+
+position: absolute;
+width: 297px;
+height: 516px;
+left: 129px;
+top: 1176px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 297px;
+height: 459px;
+left: 129px;
+top: 1233px;
+
+background: #210A01;
+border-radius: 29.5312px;
+
+
+/* Group 50 */
+
+position: absolute;
+width: 229px;
+height: 493px;
+left: 156px;
+top: 1176px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 176px;
+top: 1624px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 176px;
+top: 1624px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06);
+border-radius: 84.374px;
+
+
+/* Order Now */
+
+position: absolute;
+width: 89px;
+height: 19px;
+left: 233px;
+top: 1639px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.451px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 194px;
+height: 32.06px;
+left: 177px;
+top: 1571px;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 289px;
+top: 1576px;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 348px;
+top: 1576px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 348px;
+top: 1576px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* + */
+
+position: absolute;
+width: 10px;
+height: 15px;
+left: 355px;
+top: 1580px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 25px;
+left: 325px;
+top: 1577px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 22.8198px;
+line-height: 109.5%;
+/* identical to box height, or 25px */
+
+color: #A3A3A3;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 289px;
+top: 1576px;
+
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 18px;
+left: 296px;
+top: 1578px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #A3A3A3;
+
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 289px;
+top: 1576px;
+
+border: 1px solid #A3A3A3;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 65.76px;
+height: 32.06px;
+left: 177px;
+top: 1571px;
+
+
+
+/* 8,35 */
+
+position: absolute;
+width: 53px;
+height: 28px;
+left: 177px;
+top: 1575.06px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4553px;
+line-height: 109.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* $ */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 231.76px;
+top: 1571px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 700;
+font-size: 16.9702px;
+line-height: 109.5%;
+/* identical to box height, or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 177px;
+top: 1512px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 177px;
+top: 1512px;
+
+filter: drop-shadow(0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06));
+border-radius: 84.374px;
+
+
+/* + Ingridients */
+
+position: absolute;
+width: 92px;
+height: 18px;
+left: 227px;
+top: 1523px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 16.0839px;
+line-height: 109.5%;
+/* identical to box height, or 18px */
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 177px;
+top: 1452px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 177px;
+top: 1452px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 177px;
+top: 1452px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 22 */
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 189px;
+top: 1466px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 254px;
+top: 1452px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 254px;
+top: 1452px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* 28 */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 265px;
+top: 1466px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #FFFFFF;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 331px;
+top: 1452px;
+
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 331px;
+top: 1452px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 33 */
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 343px;
+top: 1466px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Filling: onion, potato, tomato, mushrooms, cheese, olives, meat... */
+
+position: absolute;
+width: 229px;
+height: 32px;
+left: 156px;
+top: 1400px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Italian */
+
+position: absolute;
+width: 73px;
+height: 27px;
+left: 237px;
+top: 1353px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.1018px;
+line-height: 109.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* 1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1 */
+
+position: absolute;
+width: 159.12px;
+height: 157px;
+left: 194px;
+top: 1176px;
+
+background: url(1617249653_40-p-pitstsa-na-belom-fone-krasivo-51.png);
+filter: drop-shadow(0px 0px 25px rgba(255, 138, 0, 0.18));
+
+
+/* Group 39 */
+
+position: absolute;
+width: 297px;
+height: 516px;
+left: 448px;
+top: 1177px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 297px;
+height: 459px;
+left: 448px;
+top: 1234px;
+
+background: #210A01;
+border-radius: 29.5312px;
+
+
+/* Group 50 */
+
+position: absolute;
+width: 229px;
+height: 493px;
+left: 475px;
+top: 1177px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 495px;
+top: 1625px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 495px;
+top: 1625px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06);
+border-radius: 84.374px;
+
+
+/* Order Now */
+
+position: absolute;
+width: 89px;
+height: 19px;
+left: 552px;
+top: 1640px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.451px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 194px;
+height: 32.06px;
+left: 496px;
+top: 1572px;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 608px;
+top: 1577px;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 667px;
+top: 1577px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 667px;
+top: 1577px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* + */
+
+position: absolute;
+width: 10px;
+height: 15px;
+left: 674px;
+top: 1581px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 25px;
+left: 644px;
+top: 1578px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 22.8198px;
+line-height: 109.5%;
+/* identical to box height, or 25px */
+
+color: #A3A3A3;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 608px;
+top: 1577px;
+
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 18px;
+left: 615px;
+top: 1579px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #A3A3A3;
+
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 608px;
+top: 1577px;
+
+border: 1px solid #A3A3A3;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 65.76px;
+height: 32.06px;
+left: 496px;
+top: 1572px;
+
+
+
+/* 7,35 */
+
+position: absolute;
+width: 49px;
+height: 28px;
+left: 496px;
+top: 1576.06px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4553px;
+line-height: 109.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* $ */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 550.76px;
+top: 1572px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 700;
+font-size: 16.9702px;
+line-height: 109.5%;
+/* identical to box height, or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 496px;
+top: 1513px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 496px;
+top: 1513px;
+
+filter: drop-shadow(0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06));
+border-radius: 84.374px;
+
+
+/* + Ingridients */
+
+position: absolute;
+width: 92px;
+height: 18px;
+left: 546px;
+top: 1524px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 16.0839px;
+line-height: 109.5%;
+/* identical to box height, or 18px */
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 496px;
+top: 1453px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 496px;
+top: 1453px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 496px;
+top: 1453px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 22 */
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 508px;
+top: 1467px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 573px;
+top: 1453px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 573px;
+top: 1453px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* 28 */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 584px;
+top: 1467px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #FFFFFF;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 650px;
+top: 1453px;
+
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 650px;
+top: 1453px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 33 */
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 662px;
+top: 1467px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Filling: onion, potato, tomato, mushrooms, cheese, olives, meat... */
+
+position: absolute;
+width: 229px;
+height: 32px;
+left: 475px;
+top: 1401px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Venecia */
+
+position: absolute;
+width: 91px;
+height: 27px;
+left: 544px;
+top: 1354px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.1018px;
+line-height: 109.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* 1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1 */
+
+position: absolute;
+width: 159.12px;
+height: 157px;
+left: 513px;
+top: 1177px;
+
+background: url(1614548274_69-p-pitstsa-na-belom-fone-105-removebg-preview.png);
+filter: drop-shadow(0px 0px 25px rgba(255, 138, 0, 0.18));
+
+
+/* Group 40 */
+
+position: absolute;
+width: 297px;
+height: 516px;
+left: 767px;
+top: 1178px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 297px;
+height: 459px;
+left: 767px;
+top: 1235px;
+
+background: #210A01;
+border-radius: 29.5312px;
+
+
+/* Group 50 */
+
+position: absolute;
+width: 229px;
+height: 493px;
+left: 794px;
+top: 1178px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 814px;
+top: 1626px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 814px;
+top: 1626px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06);
+border-radius: 84.374px;
+
+
+/* Order Now */
+
+position: absolute;
+width: 89px;
+height: 19px;
+left: 871px;
+top: 1641px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.451px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 194px;
+height: 32.06px;
+left: 815px;
+top: 1573px;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 927px;
+top: 1578px;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 986px;
+top: 1578px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 986px;
+top: 1578px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* + */
+
+position: absolute;
+width: 10px;
+height: 15px;
+left: 993px;
+top: 1582px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 25px;
+left: 963px;
+top: 1579px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 22.8198px;
+line-height: 109.5%;
+/* identical to box height, or 25px */
+
+color: #A3A3A3;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 927px;
+top: 1578px;
+
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 18px;
+left: 934px;
+top: 1580px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #A3A3A3;
+
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 927px;
+top: 1578px;
+
+border: 1px solid #A3A3A3;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 65.76px;
+height: 32.06px;
+left: 815px;
+top: 1573px;
+
+
+
+/* 9,35 */
+
+position: absolute;
+width: 52px;
+height: 28px;
+left: 815px;
+top: 1577.06px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4553px;
+line-height: 109.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* $ */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 869.76px;
+top: 1573px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 700;
+font-size: 16.9702px;
+line-height: 109.5%;
+/* identical to box height, or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 815px;
+top: 1514px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 815px;
+top: 1514px;
+
+filter: drop-shadow(0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06));
+border-radius: 84.374px;
+
+
+/* + Ingridients */
+
+position: absolute;
+width: 92px;
+height: 18px;
+left: 865px;
+top: 1525px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 16.0839px;
+line-height: 109.5%;
+/* identical to box height, or 18px */
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 815px;
+top: 1454px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 815px;
+top: 1454px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 815px;
+top: 1454px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 22 */
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 827px;
+top: 1468px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 892px;
+top: 1454px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 892px;
+top: 1454px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* 28 */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 903px;
+top: 1468px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #FFFFFF;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 969px;
+top: 1454px;
+
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 969px;
+top: 1454px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 33 */
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 981px;
+top: 1468px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Filling: onion, potato, tomato, mushrooms, cheese, olives, meat... */
+
+position: absolute;
+width: 229px;
+height: 32px;
+left: 794px;
+top: 1402px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Meat */
+
+position: absolute;
+width: 61px;
+height: 27px;
+left: 878px;
+top: 1355px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.1018px;
+line-height: 109.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* 1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1 */
+
+position: absolute;
+width: 159.12px;
+height: 157px;
+left: 832px;
+top: 1178px;
+
+background: url(528-5281544_build-yo-removebg-preview.png);
+filter: drop-shadow(0px 0px 25px rgba(255, 138, 0, 0.18));
+
+
+/* Group 41 */
+
+position: absolute;
+width: 297px;
+height: 516px;
+left: 1086px;
+top: 1179px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 297px;
+height: 459px;
+left: 1086px;
+top: 1236px;
+
+background: #210A01;
+border-radius: 29.5312px;
+
+
+/* Group 50 */
+
+position: absolute;
+width: 229px;
+height: 493px;
+left: 1113px;
+top: 1179px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 1133px;
+top: 1627px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 1133px;
+top: 1627px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06);
+border-radius: 84.374px;
+
+
+/* Order Now */
+
+position: absolute;
+width: 89px;
+height: 19px;
+left: 1190px;
+top: 1642px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.451px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 194px;
+height: 32.06px;
+left: 1134px;
+top: 1574px;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 1246px;
+top: 1579px;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1305px;
+top: 1579px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1305px;
+top: 1579px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* + */
+
+position: absolute;
+width: 10px;
+height: 15px;
+left: 1312px;
+top: 1583px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 25px;
+left: 1282px;
+top: 1580px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 22.8198px;
+line-height: 109.5%;
+/* identical to box height, or 25px */
+
+color: #A3A3A3;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1246px;
+top: 1579px;
+
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 18px;
+left: 1253px;
+top: 1581px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #A3A3A3;
+
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1246px;
+top: 1579px;
+
+border: 1px solid #A3A3A3;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 65.76px;
+height: 32.06px;
+left: 1134px;
+top: 1574px;
+
+
+
+/* 8,35 */
+
+position: absolute;
+width: 53px;
+height: 28px;
+left: 1134px;
+top: 1578.06px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4553px;
+line-height: 109.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* $ */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 1188.76px;
+top: 1574px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 700;
+font-size: 16.9702px;
+line-height: 109.5%;
+/* identical to box height, or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 1134px;
+top: 1515px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 1134px;
+top: 1515px;
+
+filter: drop-shadow(0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06));
+border-radius: 84.374px;
+
+
+/* + Ingridients */
+
+position: absolute;
+width: 92px;
+height: 18px;
+left: 1184px;
+top: 1526px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 16.0839px;
+line-height: 109.5%;
+/* identical to box height, or 18px */
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 1134px;
+top: 1455px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1134px;
+top: 1455px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1134px;
+top: 1455px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 22 */
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 1146px;
+top: 1469px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1211px;
+top: 1455px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1211px;
+top: 1455px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* 28 */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 1222px;
+top: 1469px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #FFFFFF;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1288px;
+top: 1455px;
+
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1288px;
+top: 1455px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 33 */
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 1300px;
+top: 1469px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Filling: onion, potato, tomato, mushrooms, cheese, olives, meat... */
+
+position: absolute;
+width: 229px;
+height: 32px;
+left: 1113px;
+top: 1403px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Cheese */
+
+position: absolute;
+width: 85px;
+height: 27px;
+left: 1185px;
+top: 1356px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.1018px;
+line-height: 109.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* 1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1 */
+
+position: absolute;
+width: 159.12px;
+height: 157px;
+left: 1151px;
+top: 1179px;
+
+background: url(png-clipart-pizza-delivery-take-out-italian-cuisine-desktop-pizza-food-recipe-removebg-preview.png);
+filter: drop-shadow(0px 0px 25px rgba(255, 138, 0, 0.18));
+
+
+/* Group 38 */
+
+position: absolute;
+width: 1254px;
+height: 519px;
+left: 129px;
+top: 2089px;
+
+filter: drop-shadow(0px 4px 27px rgba(139, 36, 3, 0.05));
+
+
+/* Group 29 */
+
+position: absolute;
+width: 1254px;
+height: 519px;
+left: 129px;
+top: 2089px;
+
+
+
+/* Group 38 */
+
+position: absolute;
+width: 297px;
+height: 516px;
+left: 129px;
+top: 2089px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 297px;
+height: 459px;
+left: 129px;
+top: 2146px;
+
+background: #210A01;
+border-radius: 29.5312px;
+
+
+/* Group 50 */
+
+position: absolute;
+width: 229px;
+height: 493px;
+left: 156px;
+top: 2089px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 176px;
+top: 2537px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 176px;
+top: 2537px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06);
+border-radius: 84.374px;
+
+
+/* Order Now */
+
+position: absolute;
+width: 89px;
+height: 19px;
+left: 233px;
+top: 2552px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.451px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 194px;
+height: 32.06px;
+left: 177px;
+top: 2484px;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 289px;
+top: 2489px;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 348px;
+top: 2489px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 348px;
+top: 2489px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* + */
+
+position: absolute;
+width: 10px;
+height: 15px;
+left: 355px;
+top: 2493px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 25px;
+left: 325px;
+top: 2490px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 22.8198px;
+line-height: 109.5%;
+/* identical to box height, or 25px */
+
+color: #A3A3A3;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 289px;
+top: 2489px;
+
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 18px;
+left: 296px;
+top: 2491px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #A3A3A3;
+
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 289px;
+top: 2489px;
+
+border: 1px solid #A3A3A3;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 65.76px;
+height: 32.06px;
+left: 177px;
+top: 2484px;
+
+
+
+/* 7,35 */
+
+position: absolute;
+width: 49px;
+height: 28px;
+left: 177px;
+top: 2488.06px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4553px;
+line-height: 109.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* $ */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 231.76px;
+top: 2484px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 700;
+font-size: 16.9702px;
+line-height: 109.5%;
+/* identical to box height, or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 177px;
+top: 2425px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 177px;
+top: 2425px;
+
+filter: drop-shadow(0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06));
+border-radius: 84.374px;
+
+
+/* + Ingridients */
+
+position: absolute;
+width: 92px;
+height: 18px;
+left: 227px;
+top: 2436px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 16.0839px;
+line-height: 109.5%;
+/* identical to box height, or 18px */
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 177px;
+top: 2365px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 177px;
+top: 2365px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 177px;
+top: 2365px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 22 */
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 189px;
+top: 2379px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 254px;
+top: 2365px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 254px;
+top: 2365px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* 28 */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 265px;
+top: 2379px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #FFFFFF;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 331px;
+top: 2365px;
+
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 331px;
+top: 2365px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 33 */
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 343px;
+top: 2379px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Filling: onion, potato, tomato, mushrooms, cheese, olives, meat... */
+
+position: absolute;
+width: 229px;
+height: 32px;
+left: 156px;
+top: 2313px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Argentina */
+
+position: absolute;
+width: 117px;
+height: 27px;
+left: 212px;
+top: 2266px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.1018px;
+line-height: 109.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* 1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1 */
+
+position: absolute;
+width: 159.12px;
+height: 157px;
+left: 194px;
+top: 2089px;
+
+background: url(002-removebg-preview.png);
+filter: drop-shadow(0px 0px 25px rgba(255, 138, 0, 0.18));
+
+
+/* Group 39 */
+
+position: absolute;
+width: 297px;
+height: 516px;
+left: 448px;
+top: 2090px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 297px;
+height: 459px;
+left: 448px;
+top: 2147px;
+
+background: #210A01;
+border-radius: 29.5312px;
+
+
+/* Group 50 */
+
+position: absolute;
+width: 229px;
+height: 493px;
+left: 475px;
+top: 2090px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 495px;
+top: 2538px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 495px;
+top: 2538px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06);
+border-radius: 84.374px;
+
+
+/* Order Now */
+
+position: absolute;
+width: 89px;
+height: 19px;
+left: 552px;
+top: 2553px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.451px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 194px;
+height: 32.06px;
+left: 496px;
+top: 2485px;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 608px;
+top: 2490px;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 667px;
+top: 2490px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 667px;
+top: 2490px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* + */
+
+position: absolute;
+width: 10px;
+height: 15px;
+left: 674px;
+top: 2494px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 25px;
+left: 644px;
+top: 2491px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 22.8198px;
+line-height: 109.5%;
+/* identical to box height, or 25px */
+
+color: #A3A3A3;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 608px;
+top: 2490px;
+
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 18px;
+left: 615px;
+top: 2492px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #A3A3A3;
+
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 608px;
+top: 2490px;
+
+border: 1px solid #A3A3A3;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 65.76px;
+height: 32.06px;
+left: 496px;
+top: 2485px;
+
+
+
+/* 6,35 */
+
+position: absolute;
+width: 53px;
+height: 28px;
+left: 496px;
+top: 2489.06px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4553px;
+line-height: 109.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* $ */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 550.76px;
+top: 2485px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 700;
+font-size: 16.9702px;
+line-height: 109.5%;
+/* identical to box height, or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 496px;
+top: 2426px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 496px;
+top: 2426px;
+
+filter: drop-shadow(0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06));
+border-radius: 84.374px;
+
+
+/* + Ingridients */
+
+position: absolute;
+width: 92px;
+height: 18px;
+left: 546px;
+top: 2437px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 16.0839px;
+line-height: 109.5%;
+/* identical to box height, or 18px */
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 496px;
+top: 2366px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 496px;
+top: 2366px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 496px;
+top: 2366px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 22 */
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 508px;
+top: 2380px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 573px;
+top: 2366px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 573px;
+top: 2366px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* 28 */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 584px;
+top: 2380px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #FFFFFF;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 650px;
+top: 2366px;
+
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 650px;
+top: 2366px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 33 */
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 662px;
+top: 2380px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Filling: onion, potato, tomato, mushrooms, cheese, olives, meat... */
+
+position: absolute;
+width: 229px;
+height: 32px;
+left: 475px;
+top: 2314px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Gribnaya */
+
+position: absolute;
+width: 104px;
+height: 27px;
+left: 537px;
+top: 2267px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.1018px;
+line-height: 109.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* 1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1 */
+
+position: absolute;
+width: 159.12px;
+height: 157px;
+left: 513px;
+top: 2090px;
+
+background: url(png-clipart-pizza-margherita-italian-cuisine-barbecue-seafood-pizza-pizza-parlors-barbecue-food-removebg-preview.png);
+filter: drop-shadow(0px 0px 25px rgba(255, 138, 0, 0.18));
+
+
+/* Group 40 */
+
+position: absolute;
+width: 297px;
+height: 516px;
+left: 767px;
+top: 2091px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 297px;
+height: 459px;
+left: 767px;
+top: 2148px;
+
+background: #210A01;
+border-radius: 29.5312px;
+
+
+/* Group 50 */
+
+position: absolute;
+width: 229px;
+height: 493px;
+left: 794px;
+top: 2091px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 814px;
+top: 2539px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 814px;
+top: 2539px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06);
+border-radius: 84.374px;
+
+
+/* Order Now */
+
+position: absolute;
+width: 89px;
+height: 19px;
+left: 871px;
+top: 2554px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.451px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 194px;
+height: 32.06px;
+left: 815px;
+top: 2486px;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 927px;
+top: 2491px;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 986px;
+top: 2491px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 986px;
+top: 2491px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* + */
+
+position: absolute;
+width: 10px;
+height: 15px;
+left: 993px;
+top: 2495px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 25px;
+left: 963px;
+top: 2492px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 22.8198px;
+line-height: 109.5%;
+/* identical to box height, or 25px */
+
+color: #A3A3A3;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 927px;
+top: 2491px;
+
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 18px;
+left: 934px;
+top: 2493px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #A3A3A3;
+
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 927px;
+top: 2491px;
+
+border: 1px solid #A3A3A3;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 65.76px;
+height: 32.06px;
+left: 815px;
+top: 2486px;
+
+
+
+/* 7,35 */
+
+position: absolute;
+width: 49px;
+height: 28px;
+left: 815px;
+top: 2490.06px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4553px;
+line-height: 109.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* $ */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 869.76px;
+top: 2486px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 700;
+font-size: 16.9702px;
+line-height: 109.5%;
+/* identical to box height, or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 815px;
+top: 2427px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 815px;
+top: 2427px;
+
+filter: drop-shadow(0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06));
+border-radius: 84.374px;
+
+
+/* + Ingridients */
+
+position: absolute;
+width: 92px;
+height: 18px;
+left: 865px;
+top: 2438px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 16.0839px;
+line-height: 109.5%;
+/* identical to box height, or 18px */
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 815px;
+top: 2367px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 815px;
+top: 2367px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 815px;
+top: 2367px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 22 */
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 827px;
+top: 2381px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 892px;
+top: 2367px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 892px;
+top: 2367px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* 28 */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 903px;
+top: 2381px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #FFFFFF;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 969px;
+top: 2367px;
+
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 969px;
+top: 2367px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 33 */
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 981px;
+top: 2381px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Filling: onion, potato, tomato, mushrooms, cheese, olives, meat... */
+
+position: absolute;
+width: 229px;
+height: 32px;
+left: 794px;
+top: 2315px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Tomato */
+
+position: absolute;
+width: 89px;
+height: 27px;
+left: 864px;
+top: 2268px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.1018px;
+line-height: 109.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* 1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1 */
+
+position: absolute;
+width: 159.12px;
+height: 157px;
+left: 832px;
+top: 2091px;
+
+background: url(png-transparent-chicago-style-pizza-pizza-image-file-formats-food-cheese-removebg-preview.png);
+filter: drop-shadow(0px 0px 25px rgba(255, 138, 0, 0.18));
+
+
+/* Group 41 */
+
+position: absolute;
+width: 297px;
+height: 516px;
+left: 1086px;
+top: 2092px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 297px;
+height: 459px;
+left: 1086px;
+top: 2149px;
+
+background: #210A01;
+border-radius: 29.5312px;
+
+
+/* Group 50 */
+
+position: absolute;
+width: 229px;
+height: 493px;
+left: 1113px;
+top: 2092px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 1133px;
+top: 2540px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 194px;
+height: 45px;
+left: 1133px;
+top: 2540px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06);
+border-radius: 84.374px;
+
+
+/* Order Now */
+
+position: absolute;
+width: 89px;
+height: 19px;
+left: 1190px;
+top: 2555px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 17.451px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 194px;
+height: 32.06px;
+left: 1134px;
+top: 2487px;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 82px;
+height: 26px;
+left: 1246px;
+top: 2492px;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1305px;
+top: 2492px;
+
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1305px;
+top: 2492px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* + */
+
+position: absolute;
+width: 10px;
+height: 15px;
+left: 1312px;
+top: 2496px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 25px;
+left: 1282px;
+top: 2493px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 22.8198px;
+line-height: 109.5%;
+/* identical to box height, or 25px */
+
+color: #A3A3A3;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1246px;
+top: 2492px;
+
+
+
+/* - */
+
+position: absolute;
+width: 9px;
+height: 18px;
+left: 1253px;
+top: 2494px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 17.6642px;
+line-height: 109.5%;
+/* or 19px */
+
+color: #A3A3A3;
+
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 1246px;
+top: 2492px;
+
+border: 1px solid #A3A3A3;
+
+
+/* Group 40 */
+
+position: absolute;
+width: 65.76px;
+height: 32.06px;
+left: 1134px;
+top: 2487px;
+
+
+
+/* 8,35 */
+
+position: absolute;
+width: 53px;
+height: 28px;
+left: 1134px;
+top: 2491.06px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.4553px;
+line-height: 109.5%;
+/* identical to box height, or 28px */
+
+color: #FFFFFF;
+
+
+
+/* $ */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 1188.76px;
+top: 2487px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 700;
+font-size: 16.9702px;
+line-height: 109.5%;
+/* identical to box height, or 19px */
+
+color: #FFFFFF;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 1134px;
+top: 2428px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 194px;
+height: 39px;
+left: 1134px;
+top: 2428px;
+
+filter: drop-shadow(0px 7.59366px 33.7496px rgba(255, 107, 0, 0.06));
+border-radius: 84.374px;
+
+
+/* + Ingridients */
+
+position: absolute;
+width: 92px;
+height: 18px;
+left: 1184px;
+top: 2439px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 16.0839px;
+line-height: 109.5%;
+/* identical to box height, or 18px */
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 1134px;
+top: 2368px;
+
+
+
+/* Group 47 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1134px;
+top: 2368px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1134px;
+top: 2368px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 22 */
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 1146px;
+top: 2382px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1211px;
+top: 2368px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1211px;
+top: 2368px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+
+
+/* 28 */
+
+position: absolute;
+width: 18px;
+height: 16px;
+left: 1222px;
+top: 2382px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #FFFFFF;
+
+
+
+/* Group 49 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1288px;
+top: 2368px;
+
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1288px;
+top: 2368px;
+
+border: 1.5px solid #A3A3A3;
+
+
+/* 33 */
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 1300px;
+top: 2382px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* identical to box height, or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Filling: onion, potato, tomato, mushrooms, cheese, olives, meat... */
+
+position: absolute;
+width: 229px;
+height: 32px;
+left: 1113px;
+top: 2316px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 14.3197px;
+line-height: 109.5%;
+/* or 16px */
+
+color: #A3A3A3;
+
+
+
+/* Italian x2 */
+
+position: absolute;
+width: 106px;
+height: 27px;
+left: 1175px;
+top: 2269px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.1018px;
+line-height: 109.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* 1617249653_40-p-pitstsa-na-belom-fone-krasivo-51 1 */
+
+position: absolute;
+width: 159.12px;
+height: 157px;
+left: 1151px;
+top: 2092px;
+
+background: url(png-clipart-pizza-ham-italian-cuisine-calzone-prosciutto-pizza-pizza-ham-removebg-preview.png);
+filter: drop-shadow(0px 0px 25px rgba(255, 138, 0, 0.18));
+
+
+/* Group 54 */
+
+position: absolute;
+width: 1248px;
+height: 286px;
+left: 132px;
+top: 1749px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 1248px;
+height: 286px;
+left: 132px;
+top: 1749px;
+
+background: url(getulio-moraes-Wz3u9_GtkWc-unsplash.jpg);
+border-radius: 34px;
+
+
+/* MOST POPULAR PIZZA */
+
+position: absolute;
+width: 489px;
+height: 43.92px;
+left: 511px;
+top: 1874.07px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 43.8638px;
+line-height: 108.5%;
+/* or 48px */
+
+color: #FFFFFF;
+
+text-shadow: 0px 11.5905px 10.2269px rgba(14, 4, 4, 0.38);
+
+
+/* Group 37 */
+
+position: absolute;
+width: 1246.07px;
+height: 62px;
+left: 133px;
+top: 1060px;
+
+
+
+/* Group 32 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 133px;
+top: 1060px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 133px;
+top: 1060px;
+
+background: linear-gradient(261.69deg, #FF5924 12.12%, #FFA229 86.72%);
+box-shadow: 0px 9px 40px rgba(255, 107, 0, 0.06);
+border-radius: 100px;
+
+
+/* Show All */
+
+position: absolute;
+width: 80px;
+height: 22px;
+left: 208px;
+top: 1080px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 109.5%;
+/* identical to box height, or 22px */
+
+color: #FFFFFF;
+
+
+
+/* Group 33 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 386.93px;
+top: 1060px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 386.93px;
+top: 1060px;
+
+background: #210A01;
+box-shadow: 0px 9px 40px rgba(255, 107, 0, 0.06);
+border-radius: 100px;
+
+
+/* Meat */
+
+position: absolute;
+width: 53px;
+height: 24px;
+left: 475px;
+top: 1079px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 109.5%;
+/* identical to box height, or 24px */
+
+color: #FFFFFF;
+
+
+
+/* Group 34 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 641px;
+top: 1060px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 641px;
+top: 1060px;
+
+background: #210A01;
+box-shadow: 0px 9px 40px rgba(255, 107, 0, 0.06);
+border-radius: 100px;
+
+
+/* Vegetarian */
+
+position: absolute;
+width: 102px;
+height: 22px;
+left: 705px;
+top: 1080px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 109.5%;
+/* identical to box height, or 22px */
+
+color: #FFFFFF;
+
+
+
+/* Group 35 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 895.07px;
+top: 1060px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 895.07px;
+top: 1060px;
+
+background: #210A01;
+box-shadow: 0px 9px 40px rgba(255, 107, 0, 0.06);
+border-radius: 100px;
+
+
+/* Sea products */
+
+position: absolute;
+width: 122px;
+height: 22px;
+left: 949px;
+top: 1080px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 109.5%;
+/* identical to box height, or 22px */
+
+color: #FFFFFF;
+
+
+
+/* Group 36 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 1149.14px;
+top: 1060px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 229.93px;
+height: 62px;
+left: 1149.14px;
+top: 1060px;
+
+background: #210A01;
+box-shadow: 0px 9px 40px rgba(255, 107, 0, 0.06);
+border-radius: 100px;
+
+
+/* Mushroom */
+
+position: absolute;
+width: 110px;
+height: 24px;
+left: 1209px;
+top: 1079px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 109.5%;
+/* identical to box height, or 24px */
+
+color: #FFFFFF;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 182px;
+height: 58px;
+left: 665px;
+top: 953px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 800;
+font-size: 69.1697px;
+line-height: 109.5%;
+/* or 76px */
+
+color: #FFFFFF;
+
+
+
+/* 2 Блок */
+
+position: absolute;
+width: 1561.94px;
+height: 1055px;
+left: -25px;
+top: 2560px;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 1561.94px;
+height: 1055px;
+left: -25px;
+top: 2560px;
+
+filter: drop-shadow(0px 4px 30px rgba(14, 8, 0, 0.63));
+
+
+/* Events */
+
+position: absolute;
+width: 485px;
+height: 230px;
+left: 65px;
+top: 2560px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* Events */
+
+position: absolute;
+width: 485px;
+height: 230px;
+left: 1013px;
+top: 3385px;
+
+font-family: 'Alex Brush';
+font-style: normal;
+font-weight: 400;
+font-size: 209.87px;
+line-height: 109.5%;
+/* identical to box height, or 230px */
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 1252px;
+height: 260px;
+left: 134px;
+top: 3250px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 401.47px;
+height: 260px;
+left: 559.26px;
+top: 3250px;
+
+background: url(no-revisions-iNK5CGCpD8U-unsplash.jpg);
+border-radius: 30px;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 401.47px;
+height: 260px;
+left: 984.53px;
+top: 3250px;
+
+background: url(fatima-akram-uU0Anw-8Vsg-unsplash.jpg);
+border-radius: 30px;
+
+
+/* Group 22 */
+
+position: absolute;
+width: 1076px;
+height: 260px;
+left: 134px;
+top: 3250px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 401.47px;
+height: 260px;
+left: 134px;
+top: 3250px;
+
+background: url(fernando-andrade-_P76trHTWDE-unsplash.jpg);
+border-radius: 30px;
+
+
+/* Group 21 */
+
+position: absolute;
+width: 205px;
+height: 140px;
+left: 161px;
+top: 3337px;
+
+
+
+/* FREE COFFEE FOR 3 PIZZA */
+
+position: absolute;
+width: 168px;
+height: 54px;
+left: 161px;
+top: 3337px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.0926px;
+line-height: 108.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 162px;
+top: 3439px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 162px;
+top: 3439px;
+
+background: linear-gradient(261.69deg, #FF5D29 12.12%, #FE9C1C 86.72%);
+border-radius: 34px;
+
+
+/* More */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 245px;
+top: 3450px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 15.3846px;
+line-height: 108.5%;
+/* identical to box height, or 17px */
+
+color: #FFFFFF;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 205px;
+height: 140px;
+left: 583px;
+top: 3337px;
+
+
+
+/* OUR INSTAGRAM */
+
+position: absolute;
+width: 168px;
+height: 54px;
+left: 583px;
+top: 3337px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.0926px;
+line-height: 108.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 584px;
+top: 3439px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 584px;
+top: 3439px;
+
+background: linear-gradient(261.69deg, #FF5D29 12.12%, #FE9C1C 86.72%);
+border-radius: 35px;
+
+
+/* More */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 667px;
+top: 3450px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 15.3846px;
+line-height: 108.5%;
+/* identical to box height, or 17px */
+
+color: #FFFFFF;
+
+
+
+/* Group 23 */
+
+position: absolute;
+width: 205px;
+height: 140px;
+left: 1005px;
+top: 3337px;
+
+
+
+/* WHERE ARE YOU CHOOSE US? */
+
+position: absolute;
+width: 171px;
+height: 81px;
+left: 1005px;
+top: 3337px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.0926px;
+line-height: 108.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 1006px;
+top: 3439px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 1006px;
+top: 3439px;
+
+background: linear-gradient(261.69deg, #FF5D29 12.12%, #FE9C1C 86.72%);
+border-radius: 31px;
+
+
+/* More */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 1089px;
+top: 3450px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 15.3846px;
+line-height: 108.5%;
+/* identical to box height, or 17px */
+
+color: #FFFFFF;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 1253px;
+height: 543px;
+left: 133px;
+top: 2683px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 614.55px;
+height: 260px;
+left: 771.45px;
+top: 2966px;
+
+background: url(jay-wennington-N_Y88TWmGwA-unsplash.jpg);
+border-radius: 30px;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 787px;
+height: 260px;
+left: 134px;
+top: 2683px;
+
+filter: drop-shadow(0px 4px 29px rgba(255, 78, 21, 0.05));
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 367px;
+height: 260px;
+left: 134px;
+top: 2683px;
+
+background: url(getulio-moraes-Wz3u9_GtkWc-unsplash.jpg);
+border-radius: 30px;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 396px;
+height: 260px;
+left: 525px;
+top: 2683px;
+
+background: url(dex-ezekiel-Yh45DdUoTgo-unsplash.jpg);
+border-radius: 30px;
+
+
+/* Group 24 */
+
+position: absolute;
+width: 205px;
+height: 140px;
+left: 159px;
+top: 2763px;
+
+
+
+/* HOW WE COOKING */
+
+position: absolute;
+width: 171px;
+height: 54px;
+left: 159px;
+top: 2763px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.0926px;
+line-height: 108.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 160px;
+top: 2865px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 160px;
+top: 2865px;
+
+background: linear-gradient(261.69deg, #FF5D29 12.12%, #FE9C1C 86.72%);
+border-radius: 32px;
+
+
+/* More */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 243px;
+top: 2876px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 15.3846px;
+line-height: 108.5%;
+/* identical to box height, or 17px */
+
+color: #FFFFFF;
+
+
+
+/* Group 25 */
+
+position: absolute;
+width: 205px;
+height: 140px;
+left: 549px;
+top: 2762px;
+
+
+
+/* OUR BLOG */
+
+position: absolute;
+width: 133px;
+height: 27px;
+left: 549px;
+top: 2762px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.0926px;
+line-height: 108.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 550px;
+top: 2864px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 550px;
+top: 2864px;
+
+background: linear-gradient(261.69deg, #FF5D29 12.12%, #FE9C1C 86.72%);
+border-radius: 36px;
+
+
+/* More */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 633px;
+top: 2875px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 15.3846px;
+line-height: 108.5%;
+/* identical to box height, or 17px */
+
+color: #FFFFFF;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 205px;
+height: 140px;
+left: 800px;
+top: 3052px;
+
+
+
+/* KITCHEN TOUR */
+
+position: absolute;
+width: 168px;
+height: 54px;
+left: 800px;
+top: 3052px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.0926px;
+line-height: 108.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 801px;
+top: 3154px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 801px;
+top: 3154px;
+
+background: linear-gradient(261.69deg, #FF5D29 12.12%, #FE9C1C 86.72%);
+border-radius: 45px;
+
+
+/* More */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 884px;
+top: 3165px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 15.3846px;
+line-height: 108.5%;
+/* identical to box height, or 17px */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 614.55px;
+height: 260px;
+left: 133px;
+top: 2966px;
+
+background: #D9D9D9;
+border-radius: 30px;
+
+
+/* alex-haney-CAhjZmVk5H4-unsplash 1 */
+
+position: absolute;
+width: 916px;
+height: 610.67px;
+left: 69px;
+top: 2930px;
+
+background: url(alex-haney-CAhjZmVk5H4-unsplash.jpg);
+
+
+/* Group 20 */
+
+position: absolute;
+width: 205px;
+height: 140px;
+left: 161px;
+top: 3052px;
+
+
+
+/* TWO PIZZA FOR 1 PRICE */
+
+position: absolute;
+width: 152px;
+height: 54px;
+left: 161px;
+top: 3052px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 25.0926px;
+line-height: 108.5%;
+/* or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 162px;
+top: 3154px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 162px;
+top: 3154px;
+
+background: linear-gradient(261.69deg, #FF5D29 12.12%, #FE9C1C 86.72%);
+border-radius: 33px;
+
+
+/* More */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 245px;
+top: 3165px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 500;
+font-size: 15.3846px;
+line-height: 108.5%;
+/* identical to box height, or 17px */
+
+color: #FFFFFF;
+
+
+
+/* Group 27 */
+
+position: absolute;
+width: 1561.94px;
+height: 770.99px;
+left: -25px;
+top: 2813px;
+
+
+
+/* cofee 1 */
+
+position: absolute;
+width: 200.29px;
+height: 200.29px;
+left: 32.13px;
+top: 3371px;
+
+background: url(cofee);
+filter: drop-shadow(25px -12px 29px rgba(255, 78, 21, 0.1));
+transform: rotate(3.76deg);
+
+
+/* buritto 1 */
+
+position: absolute;
+width: 257.84px;
+height: 278.34px;
+left: 1488.99px;
+top: 2926px;
+
+background: url(buritto);
+/* kkkkkkkkkkkk */
+filter: drop-shadow(0px 11px 17px rgba(17, 8, 0, 0.48));
+transform: matrix(-0.99, 0.17, 0.17, 0.99, 0, 0);
+
+
+/* egg and bacon 1 */
+
+position: absolute;
+width: 218.27px;
+height: 218.27px;
+left: -25px;
+top: 2865.57px;
+
+background: url(egg and bacon);
+/* kkkkkkkkkkkk */
+filter: drop-shadow(0px 11px 17px rgba(17, 8, 0, 0.48));
+transform: rotate(-13.94deg);
+
+
+/* Group 26 */
+
+position: absolute;
+width: 428px;
+height: 136px;
+left: 961px;
+top: 2790px;
+
+
+
+/* There are regular events in our pizzeria that will allow you to eat delicious food for a lower price! */
+
+position: absolute;
+width: 427px;
+height: 54px;
+left: 961px;
+top: 2872px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5621px;
+line-height: 27px;
+text-align: right;
+
+color: #A3A3A3;
+
+
+
+/* Events */
+
+position: absolute;
+width: 222px;
+height: 76px;
+left: 1167px;
+top: 2790px;
+
+font-family: 'Muller';
+font-style: normal;
+font-weight: 800;
+font-size: 69.1697px;
+line-height: 109.5%;
+/* identical to box height, or 76px */
+
+color: #FFFFFF;

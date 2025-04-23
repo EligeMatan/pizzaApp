@@ -1,0 +1,43 @@
+/* Проект "Пицца" */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+    background: linear-gradient(245.71deg, #1f0c00 4.96%, #1F0700 33.7%, #170A00 68.41%, #1E0D00 96.42%);
+    color: white;
+    min-height: 100vh;
+}
+
+#header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .logo {
+        color: white;
+        font-weight: 700;
+        font-size: 1.5em;
+        text-decoration: none;
+    }
+
+    ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.active {
+    background: linear-gradient(#ff5924, #ffa229);
+
+}
