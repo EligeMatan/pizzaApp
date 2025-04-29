@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -20,15 +20,17 @@ ul {
   align-items: center;
   flex-direction: row;
 }
+ul li {
+  list-style: none;
+}
 ul li a {
-  color: white;
+  background: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
   text-decoration: none;
 }
 
 #header {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
   padding: 30px 100px;
   display: flex;
@@ -36,7 +38,9 @@ ul li a {
   align-items: center;
 }
 #header .logo {
-  color: white;
+  background: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-weight: 700;
   font-size: 1.5em;
   text-decoration: none;
@@ -46,14 +50,24 @@ ul li a {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  color: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
 }
 
 #main ul {
   overflow-x: scroll;
+}
+#main ul li a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
 }
 
 #footer {
   display: flex;
   justify-content: end;
   padding-right: 10px;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */
