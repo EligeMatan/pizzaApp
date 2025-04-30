@@ -3,28 +3,28 @@
     "id": "p0",
     "name": "Гавайська",
     "price": 150,
-    "urlImg": "havai.png",
+    "fileName": "havai.png",
     "components": []
   },
   {
     "id": "p1",
     "name": "Пепероні",
     "price": 200,
-    "urlImg": "peperoni.png",
+    "fileName": "peperoni.png",
     "components": []
   },
   {
     "id": "p2",
     "name": "4 сири",
     "price": 250,
-    "urlImg": "4cheese.png",
+    "fileName": "4cheese.png",
     "components": []
   },
   {
     "id": "p3",
     "name": "Маргарита",
     "price": 220,
-    "urlImg": "margarita.png",
+    "fileName": "margarita.png",
     "components": []
   }
 ]
