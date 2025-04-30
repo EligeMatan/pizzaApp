@@ -83,6 +83,18 @@ ul {
             }
         }
     }
+
+    .pizzas, .drinks {
+
+        div {
+            height: 100%;
+            
+            ion-icon {
+                color: white;
+                height: 100%;
+            }
+        }
+    }
 }
 
 #footer {

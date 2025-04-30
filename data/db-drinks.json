@@ -1,26 +1,58 @@
 [
   {
+    "id": "d0",
+    "name": "Чай чорний",
+    "price": 0,
+    "urlImg": "",
+    "components": []
+  },
+  {
+    "id": "d1",
+    "name": "Чай зелений",
+    "price": 0,
+    "urlImg": "",
+    "components": []
+  },
+  {
+    "id": "d2",
+    "name": "Americano",
+    "price": 0,
+    "urlImg": "",
+    "components": []
+  },
+  {
+    "id": "d3",
+    "name": "Expresso",
+    "price": 0,
+    "urlImg": "",
+    "components": []
+  },
+  {
+    "id": "d4",
     "name": "Фанта",
     "price": 30,
     "urlImg": "pepsi.png",
-    "id": "d0"
+    "components": []
   },
   {
+    "id": "d5",
     "name": "Пепсі",
     "price": 50,
     "urlImg": "pepsi.png",
-    "id": "d1"
+    "components": []
   },
   {
+    "id": "d6",
     "name": "Спрайт",
     "price": 25,
     "urlImg": "pepsi.png",
-    "id": "d2"
+    "components": []
   },
   {
+    "id": "d7",
     "name": "Мірінда",
     "price": 35,
     "urlImg": "pepsi.png",
-    "id": "d3"
+    "components": []
   }
 ]
