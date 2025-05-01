@@ -32,10 +32,18 @@ ul {
     li {
         list-style: none;
         a {
-            // color: white;
-            @include gradient-text-color;
+            color: white;
             text-decoration: none;
             
+        }
+
+        &:hover, .active {
+            @include gradient-text-color;
+            // box-shadow: 0 0 5px #FE9C1C,
+            //             0 0 10px #FF5D29,
+            //             0 0 15px #FE9C1C;
+            transform: scale(1.5);
+            font-weight: bolder;
         }
     }
 }
@@ -67,6 +75,11 @@ ul {
         color: $gradient-background-elem;
         
     }
+
+    // .active {
+    //     background: $gradient-background-elem;
+    //     @include gradient-text-color;
+    // }
 }
 
 #main {

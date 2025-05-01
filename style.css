@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -24,10 +24,16 @@ ul li {
   list-style: none;
 }
 ul li a {
-  background: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: white;
   text-decoration: none;
+}
+ul li:hover, ul li .active {
+  background: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transform: scale(1.5);
+  font-weight: bolder;
 }
 
 #header {
@@ -39,7 +45,8 @@ ul li a {
 }
 #header .logo {
   background: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
-  background-clip: text;
+  -webkit-background-clip: text;
+          background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 700;
   font-size: 1.5em;
@@ -68,6 +75,4 @@ ul li a {
   display: flex;
   justify-content: end;
   padding-right: 10px;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
