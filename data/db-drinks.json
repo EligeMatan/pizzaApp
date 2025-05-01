@@ -2,57 +2,61 @@
   {
     "id": "d0",
     "name": "Чай чорний",
-    "price": 0,
-    "fileName": "",
-    "components": []
+    "price": 35,
+    "image": "data/img/black_tea.png"
   },
   {
     "id": "d1",
     "name": "Чай зелений",
-    "price": 0,
-    "fileName": "",
-    "components": []
+    "price": 40,
+    "image": "data/img/green_tea.png"
   },
   {
     "id": "d2",
     "name": "Americano",
-    "price": 0,
-    "fileName": "",
-    "components": []
+    "price": 45,
+    "image": "data/img/americano.png"
   },
   {
     "id": "d3",
-    "name": "Expresso",
-    "price": 0,
-    "fileName": "",
-    "components": []
+    "name": "Espresso",
+    "price": 40,
+    "image": "data/img/expresso.png"
   },
   {
     "id": "d4",
-    "name": "Фанта",
-    "price": 30,
-    "fileName": "pepsi.png",
-    "components": []
+    "name": "Моршинська",
+    "price": 20,
+    "image": "data/img/morshinska.png"
   },
   {
     "id": "d5",
-    "name": "Пепсі",
-    "price": 50,
-    "fileName": "pepsi.png",
-    "components": []
+    "name": "Сік апельсиновий",
+    "price": 25,
+    "image": "data/img/orange_juice.png"
   },
   {
     "id": "d6",
-    "name": "Спрайт",
-    "price": 25,
-    "fileName": "pepsi.png",
-    "components": []
+    "name": "Кока-кола",
+    "price": 50,
+    "image": "data/img/coca_cola.png"
   },
   {
     "id": "d7",
+    "name": "Пепсі",
+    "price": 50,
+    "image": "data/img/pepsi.png"
+  },
+  {
+    "id": "d8",
+    "name": "Спрайт",
+    "price": 50,
+    "image": "data/img/sprite.png"
+  },
+  {
+    "id": "d9",
     "name": "Мірінда",
-    "price": 35,
-    "fileName": "pepsi.png",
-    "components": []
+    "price": 50,
+    "image": "data/img/mirinda.png"
   }
 ]

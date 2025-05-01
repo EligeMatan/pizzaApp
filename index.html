@@ -9,7 +9,7 @@
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
     
-    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
     <script src="./src/scripts/main.js" defer></script>
 </head>
 
@@ -19,11 +19,11 @@
             
         <a href="#" class="logo">Pizzashop</a>
         <ul>
-            <li><a href="#" class="active"><ion-icon name="home-outline"></ion-icon> Home</a></li>
-            <li><a href="#"><ion-icon name="grid-outline"></ion-icon> Menu</a></li>
-            <li><a href="#"><ion-icon name="logo-react"></ion-icon> Events</a></li>
-            <li><a href="#"><ion-icon name="information-circle-outline"></ion-icon> About</a></li>
-            <li><a href="#"><ion-icon name="mail-outline"></ion-icon> Contact</a></li>
+            <li><a href="#" class="active"><ion-icon name="home-outline"></ion-icon> Головна</a></li>
+            <li><a href="#"><ion-icon name="grid-outline"></ion-icon> Меню</a></li>
+            <li><a href="#"><ion-icon name="logo-react"></ion-icon> Акції</a></li>
+            <li><a href="#"><ion-icon name="information-circle-outline"></ion-icon> Про нас</a></li>
+            <li><a href="#"><ion-icon name="mail-outline"></ion-icon> Контакти</a></li>
         </ul>
 
         <!-- </div> -->
@@ -36,87 +36,78 @@
         <div class="home"></div>
         
         <div class="menu">
-            <div class="pizzas">
-                <div>
-                    <ion-icon name="chevron-back-outline"></ion-icon>
+            <section class="pizza-block">
+                <h1>Піцца</h1>
+                <div class="pizzas">
+                    <div class="left-arrow">
+                        <ion-icon name="chevron-back-outline"></ion-icon>
+                    </div>
+                    <ul>
+                        <li><a href="#">
+                                <img src="./data/img/four_cheese.png">
+                                <span>Four Cheese</span>
+                            </a>
+                        </li>
+                        <li><a href="#">
+                                <img src="./data/img/margharita.png">
+                                <span>Margharita</span>
+                            </a>
+                        </li>
+                        <li><a href="#">
+                                <img src="./data/img/hen_mashroom.png">
+                                <span>Mashroom</span>
+                            </a>
+                        </li>
+                        <li><a href="#">
+                                <img src="./data/img/meat.png">
+                                <span>Meat</span>
+                            </a>
+                        </li>
+                        <li><a href="#">
+                                <img src="./data/img/paperonchino.png">
+                                <span>Paperonchino</span>
+                            </a>
+                        </li>
+                        <li><a href="#">
+                                <img src="./data/img/venetsia.png">
+                                <span>Venetisa</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="right-arrow">
+                        <ion-icon name="chevron-forward-outline"></ion-icon>
+                    </div>
                 </div>
-                <ul>
-                    <li><a href="#">
-                            <img src="./src/img/four_cheese.png">
-                            <span>Four Cheese</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/margarita.png">
-                            <span>Margharita</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/hen_mashroom.png">
-                            <span>Mashroom</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/meat.png">
-                            <span>Meat</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/paperonchino.png">
-                            <span>Paperonchino</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/venetsia.png">
-                            <span>Venetisa</span>
-                        </a>
-                    </li>
-                </ul>
-                <div>
-                    <ion-icon name="chevron-forward-outline"></ion-icon>
+            </section>
+
+            <section class="drinks-block">
+                <h1>Напої</h1>
+                <div class="drinks">
+                    <ul>
+                        <li><a href="#">
+                                <img src="./data/img/coca_cola.png">
+                                <span>Coca-Cola</span>
+                            </a>
+                        </li>
+                        <li><a href="#">
+                                <img src="./data/img/pepsi.png">
+                                <span>Pepsi</span>
+                            </a>
+                        </li>
+                        <li><a href="#">
+                                <img src="./data/img/morshinska.png">
+                                <span>Water (Morshinska)</span>
+                            </a>
+                        </li>
+                        <li><a href="#">
+                                <img src="./data/img/orange_juice.png">
+                                <span>Orange Juice</span>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
             </div>
-
-            <div class="drinks">
-                <ul>
-                    <li><a href="#">
-                            <img src="./src/img/coca_cola.png">
-                            <span>Coca-Cola</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/pepsi.png">
-                            <span>Pepsi</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/morshinska.png">
-                            <span>Water (Morshinska)</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/orange_juice.png">
-                            <span>Orange Juice</span>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="coffee">
-                <ul>
-                    <li><a href="#">
-                            <img src="./src/img/americano.png">
-                            <span>Americano</span>
-                        </a>
-                    </li>
-                    <li><a href="#">
-                            <img src="./src/img/expresso.png">
-                            <span>Expresso</span>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+        </section>
 
         <div class="events"></div>
 
@@ -130,6 +121,28 @@
     </main>
     
     <footer id="footer">Created by Askania Nova</footer>
+
+    <script>
+        let scrollContainer = document.querySelector('.pizzas ul');
+        let leftArr = document.querySelector('.pizzas .left-arrow');
+        let rightArr = document.querySelector('.pizzas .right-arrow');
+
+        scrollContainer.addEventListener('wheel', (event) => {
+            event.preventDefault();
+            scrollContainer.style.scrollBehavior = 'auto';
+            scrollContainer.scrollLeft += event.deltaY;
+        });
+
+        rightArr.addEventListener('click', () => {
+            scrollContainer.style.scrollBehavior = 'smooth';
+            scrollContainer.scrollLeft += 600;
+        });
+
+        leftArr.addEventListener('click', () => {
+            scrollContainer.style.scrollBehavior = 'smooth';
+            scrollContainer.scrollLeft -= 600;
+        });
+    </script>
 </body>
 
 </html>

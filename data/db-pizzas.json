@@ -1,30 +1,88 @@
 [
   {
     "id": "p0",
-    "name": "Гавайська",
-    "price": 150,
-    "fileName": "havai.png",
-    "components": []
+    "name": "М'ясна",
+    "price": 245,
+    "image": "data/img/meat.png",
+    "components": [
+      "салямі",
+      "шинка",
+      "бекон",
+      "соус",
+      "моцарела"
+    ]
   },
   {
     "id": "p1",
     "name": "Пепероні",
-    "price": 200,
-    "fileName": "peperoni.png",
-    "components": []
+    "price": 225,
+    "image": "data/img/paperonchino.png",
+    "components": [
+      "пепероні",
+      "томатний соус",
+      "моцарела"
+    ]
   },
   {
     "id": "p2",
     "name": "4 сири",
-    "price": 250,
-    "fileName": "4cheese.png",
-    "components": []
+    "price": 240,
+    "image": "data/img/four_cheese.png",
+    "components": [
+      "моцарела",
+      "дорблю",
+      "гауда",
+      "пармезан",
+      "вершковий соус"
+    ]
   },
   {
     "id": "p3",
     "name": "Маргарита",
+    "price": 165,
+    "image": "data/img/margharita.png",
+    "components": [
+      "томатний соус",
+      "моцарела",
+      "свіжі томати",
+      "базилік"
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Венеція",
+    "price": 230,
+    "image": "data/img/venetsia.png",
+    "components": [
+      "курка",
+      "печериці",
+      "кукурудза",
+      "соус",
+      "моцарела"
+    ]
+  },
+  {
+    "id": "p5",
+    "name": "Мисливська",
+    "price": 235,
+    "image": "data/img/hunter.png",
+    "components": [
+      "мисливські ковбаски",
+      "соус BBQ",
+      "цибуля",
+      "моцарела"
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "Грибна з куркою",
     "price": 220,
-    "fileName": "margarita.png",
-    "components": []
+    "image": "data/img/hen_mashroom.png",
+    "components": [
+      "курка",
+      "печериці",
+      "вершковий соус",
+      "моцарела"
+    ]
   }
 ]

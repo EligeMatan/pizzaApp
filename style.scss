@@ -8,6 +8,28 @@ $gradient-background-elem: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
     -webkit-text-fill-color: transparent;
 }
 
+%menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+
+    li {
+        list-style: none;
+
+        a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        &:hover, .active {
+            cursor: pointer;
+            font-weight: bolder;
+            transition: 0.5s;
+        }
+    }
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -21,31 +43,6 @@ body {
     // background: $gradient-background-elem;
     color: white;
     min-height: 100vh;
-}
-
-ul {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-
-    li {
-        list-style: none;
-        a {
-            color: white;
-            text-decoration: none;
-            
-        }
-
-        &:hover, .active {
-            @include gradient-text-color;
-            // box-shadow: 0 0 5px #FE9C1C,
-            //             0 0 10px #FF5D29,
-            //             0 0 15px #FE9C1C;
-            transform: scale(1.5);
-            font-weight: bolder;
-        }
-    }
 }
 
 #header {
@@ -62,49 +59,82 @@ ul {
         @include gradient-text-color;
 
         font-weight: 700;
-        font-size: 1.5em;
+        font-size: 1.7em;
         text-decoration: none;
     }
 
     ul {
-        width: 100%;
-        display: flex;
+        @extend %menu;
+
         justify-content: space-evenly;
-        align-items: center;
+        width: 100%;
 
         color: $gradient-background-elem;
-        
-    }
-
-    // .active {
-    //     background: $gradient-background-elem;
-    //     @include gradient-text-color;
-    // }
-}
-
-#main {
-    ul {
-        overflow-x: scroll;
 
         li {
             a {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                flex-direction: column;
-                height: 100%;
+                color: white;
+            }
+    
+            &:hover, .active {
+                @include gradient-text-color;
+                // box-shadow: 0 0 5px #FE9C1C,
+                //             0 0 10px #FF5D29,
+                //             0 0 15px #FE9C1C;
+                transform: scale(1.5);
             }
         }
     }
+}
 
-    .pizzas, .drinks {
+#main {
+    section {
+        margin: 10px 0;
 
-        div {
-            height: 100%;
+        h1 {
+            padding-left: 4rem;
+            font-size: 1.5em;
+            margin-bottom: 20px;
+        }
+    
+        ul {
+            @extend %menu;
+
+            overflow-x: scroll;
+
+            li {
+                a {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    height: 100%;
+                }
+            }
+
+            &::-webkit-scrollbar {
+                display: none;
+            }
+        }
+
+        .pizzas, .drinks {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 10% auto;
+            // .left-arrow, .right-arrow {
             
-            ion-icon {
-                color: white;
-                height: 100%;
+            div {
+                width: 50px;
+                cursor: pointer;
+                margin: 40px;
+                // height: 100%;
+                height: 4rem;
+                
+                ion-icon {
+                    color: white;
+                    height: 100%;
+                }
             }
         }
     }

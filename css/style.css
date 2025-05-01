@@ -1,0 +1,110 @@
+@charset "UTF-8";
+/* Проект "Пицца" */
+#main section ul, #header ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+#main section ul li, #header ul li {
+  list-style: none;
+}
+#main section ul li a, #header ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+#main section ul li:hover, #header ul li:hover, #main section ul li .active, #header ul li .active {
+  cursor: pointer;
+  font-weight: bolder;
+  transition: 0.5s;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+  background: linear-gradient(245.71deg, #1f0c00 4.96%, #1F0700 33.7%, #170A00 68.41%, #1E0D00 96.42%);
+  color: white;
+  min-height: 100vh;
+}
+
+#header {
+  width: 100%;
+  padding: 30px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#header .logo {
+  background: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  font-size: 1.7em;
+  text-decoration: none;
+}
+#header ul {
+  justify-content: space-evenly;
+  width: 100%;
+  color: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
+}
+#header ul li a {
+  color: white;
+}
+#header ul li:hover, #header ul li .active {
+  background: linear-gradient(0.25turn, #FE9C1C, #FF5D29);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transform: scale(1.5);
+}
+
+#main section {
+  margin: 10px 0;
+}
+#main section h1 {
+  padding-left: 4rem;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+#main section ul {
+  overflow-x: scroll;
+}
+#main section ul li a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+#main section ul::-webkit-scrollbar {
+  display: none;
+}
+#main section .pizzas, #main section .drinks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10% auto;
+}
+#main section .pizzas div, #main section .drinks div {
+  width: 50px;
+  cursor: pointer;
+  margin: 40px;
+  height: 4rem;
+}
+#main section .pizzas div ion-icon, #main section .drinks div ion-icon {
+  color: white;
+  height: 100%;
+}
+
+#footer {
+  display: flex;
+  justify-content: end;
+  padding-right: 10px;
+}/*# sourceMappingURL=style.css.map */
