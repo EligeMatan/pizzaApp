@@ -6,3 +6,13 @@ https://www.figma.com/design/wyCYLwAPgK8qEs9WHlxLtb/%D0%9F%D1%80%D0%BE%D0%B5%D0%
 
 # Isons
 https://fontawesome.com/search?o=r&c=arrows&s=solid&ip=classic
+
+# зміни для компілятора:
+"liveSassCompile.settings.showOutputWindowOn": "None",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        }
+    ],
