@@ -90,12 +90,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 10% auto;
 }
 #main section .pizzas div, #main section .drinks div {
   width: 50px;
   cursor: pointer;
-  margin: 40px;
   height: 4rem;
 }
 #main section .pizzas div ion-icon, #main section .drinks div ion-icon {
