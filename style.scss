@@ -88,6 +88,11 @@ body {
 }
 
 #main {
+    #messages, #menu, #cart, #loader {
+        
+        height: 200px;
+    }
+
     section {
         margin: 10px 0;
 
